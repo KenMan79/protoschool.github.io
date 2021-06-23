@@ -39,7 +39,7 @@
     "mailchimp-api-v3": "^1.13.1",
     "markdown-toc": "^1.2.0",
     "meta-marked": "^0.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.1",
     "monaco-editor": "^0.20.0",
     "monaco-editor-vue": "^1.0.10",
     "monaco-editor-webpack-plugin": "^1.9.0",
